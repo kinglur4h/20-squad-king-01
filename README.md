@@ -9,7 +9,7 @@
 - pip3 install thrift==0.11.0 
 - pip3 install humanfriendly
 - pip3 install requests 
-- cd SB-DKBOT
+- cd DRAGON-KILLER1
 - python3 selfbotdk.py
 
 # Install di c9: 
@@ -22,7 +22,7 @@
 - pip3 install requests 
 - pip3 install humanfriendly 
 - git clone https://github.com/yadirev/DRAGON_KILLER1.git
-- cd SB-DKBOT
+- cd DRAGON-KILLER1
 - python3 kiflipublik.py
 
 # Credit By Dzulkifli 
