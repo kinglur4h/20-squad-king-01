@@ -1,16 +1,16 @@
-## DnA Bot LinePy
+## DK-BOT LINE
 
 # Install di termux:
 - pkg install python3 
 - pkg install pip3 
 - pkg install git 
-- git clone https://github.com/Dee-n-a/Rin
+- git clone https://github.com/yadirev/DRAGON_KILLER1.git
 - pip3 install rsa 
 - pip3 install thrift==0.11.0 
 - pip3 install humanfriendly
 - pip3 install requests 
-- cd Rin
-- python3 rinself.py
+- cd SB-DKBOT
+- python3 selfbotdk.py
 
 # Install di c9: 
 - apt update 
@@ -21,18 +21,12 @@
 - pip3 install thrift 
 - pip3 install requests 
 - pip3 install humanfriendly 
-- git clone https://github.com/Dee-n-a/Rin
-- cd Rin
-- python3 rinself.py 
+- git clone https://github.com/yadirev/DRAGON_KILLER1.git
+- cd SB-DKBOT
+- python3 kiflipublik.py
 
-# Credit By Dee 
-- Add My ID LINE : 〘 https://line.me/ti/p/ppgIZ0JLDW 〙
+# Credit By Dzulkifli 
+- Add My ID LINE : 〘 https://line.me/ti/p/~reza.p.i.p 〙
 
 # Special Thx : 
-- Ghost Team
-- BotEater
-- HELLO-WORLD
-- Nadya Sutjiadi
-- iiipuuul
-- Eva wongmu
-- Inne Febriani
+- DRAGON-KILLER
