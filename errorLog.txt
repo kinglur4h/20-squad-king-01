@@ -1,0 +1,24 @@
+
+[<module 'time' (built-in)>] expected string or bytes-like object
+[<module 'time' (built-in)>] 'changePicture'
+[<module 'time' (built-in)>] [Errno 0] Error
+[<module 'time' (built-in)>] name 'cmd' is not defined
+[<module 'time' (built-in)>] name 'cmd' is not defined
+[<module 'time' (built-in)>] name 'cmd' is not defined
+[<module 'time' (built-in)>] name 'cmd' is not defined
+[<module 'time' (built-in)>] name 'cmd' is not defined
+[<module 'time' (built-in)>] list index out of range
+[<module 'time' (built-in)>] name 'cmd' is not defined
+[<module 'time' (built-in)>] name 'cmd' is not defined
+[<module 'time' (built-in)>] name 'cmd' is not defined
+[<module 'time' (built-in)>] name 'cmd' is not defined
+[<module 'time' (built-in)>] name 'cmd' is not defined
+[<module 'time' (built-in)>] name 'cmd' is not defined
+[<module 'time' (built-in)>] name 'cmd' is not defined
+[<module 'time' (built-in)>] name 'cmd' is not defined
+[<module 'time' (built-in)>] name 'cmd' is not defined
+[<module 'time' (built-in)>] name 'cmd' is not defined
+[<module 'time' (built-in)>] name 'cmd' is not defined
+[<module 'time' (built-in)>] name 'cmd' is not defined
+[<module 'time' (built-in)>] name 'cmd' is not defined
+[<module 'time' (built-in)>] name 'cmd' is not defined
