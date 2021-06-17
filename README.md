@@ -4,7 +4,7 @@
 - pkg install python3 
 - pkg install pip3 
 - pkg install git 
-- git clone https://github.com/yadirev/SMARTBOT.git
+- git clone https://github.com/yadirev/kinglurah.git
 - pip3 install rsa 
 - pip3 install thrift==0.11.0 
 - pip3 install humanfriendly
@@ -21,7 +21,7 @@
 - pip3 install thrift 
 - pip3 install requests 
 - pip3 install humanfriendly 
-- git clone https://github.com/yadirev/SMARTBOT.git
+- git clone https://github.com/yadirev/kinglurah.git
 - cd smartbot
 - python3 smpublik.py
 
