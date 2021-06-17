@@ -1,4 +1,4 @@
-## DK-BOT LINE
+## 20 squad king 01 LINE
 
 # Install di termux:
 - pkg install python3 
@@ -9,8 +9,8 @@
 - pip3 install thrift==0.11.0 
 - pip3 install humanfriendly
 - pip3 install requests 
-- cd DRAGON-KILLER1
-- python3 selfbotdk.py
+- cd smartbot
+- python3 selfbotsm.py
 
 # Install di c9: 
 - apt update 
@@ -22,8 +22,8 @@
 - pip3 install requests 
 - pip3 install humanfriendly 
 - git clone https://github.com/yadirev/SMARTBOT.git
-- cd DRAGON-KILLER1
-- python3 kiflipublik.py
+- cd smartbot
+- python3 smpublik.py
 
 # Credit By KINGLURAH
 - Add My ID LINE : 〘 https://line.me/ti/p/~kinglurah 〙
