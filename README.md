@@ -4,7 +4,7 @@
 - pkg install python3 
 - pkg install pip3 
 - pkg install git 
-- git clone https://github.com/yadirev/DRAGON_KILLER1.git
+- git clone https://github.com/yadirev/SMARTBOT.git
 - pip3 install rsa 
 - pip3 install thrift==0.11.0 
 - pip3 install humanfriendly
@@ -21,12 +21,12 @@
 - pip3 install thrift 
 - pip3 install requests 
 - pip3 install humanfriendly 
-- git clone https://github.com/yadirev/DRAGON_KILLER1.git
+- git clone https://github.com/yadirev/SMARTBOT.git
 - cd DRAGON-KILLER1
 - python3 kiflipublik.py
 
-# Credit By Dzulkifli 
-- Add My ID LINE : 〘 https://line.me/ti/p/~reza.p.i.p 〙
+# Credit By KINGLURAH
+- Add My ID LINE : 〘 https://line.me/ti/p/~kinglurah 〙
 
 # Special Thx : 
-- DRAGON-KILLER
+- 2O SQUAD KING 01
