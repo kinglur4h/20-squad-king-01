@@ -4,7 +4,7 @@
 - pkg install python3 
 - pkg install pip3 
 - pkg install git 
-- git clone https://github.com/yadirev/kinglurah.git
+- git clone https://github.com/yadirev/20squadking01.git
 - pip3 install rsa 
 - pip3 install thrift==0.11.0 
 - pip3 install humanfriendly
@@ -21,7 +21,7 @@
 - pip3 install thrift 
 - pip3 install requests 
 - pip3 install humanfriendly 
-- git clone https://github.com/yadirev/kinglurah.git
+- git clone https://github.com/yadirev/20squadking01.git
 - cd smartbot
 - python3 smpublik.py
 
@@ -30,3 +30,6 @@
 
 # Special Thx : 
 - 2O SQUAD KING 01
+- TEAM SMART BOTS
+- TEAM ANU BOTS
+I LOVE YOU KING LURAH
